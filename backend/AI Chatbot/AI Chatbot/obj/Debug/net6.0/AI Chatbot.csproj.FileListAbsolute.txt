@@ -1,0 +1,35 @@
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\appsettings.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\AI Chatbot.exe
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\AI Chatbot.deps.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\AI Chatbot.runtimeconfig.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\AI Chatbot.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\AI Chatbot.pdb
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\OpenAI_API.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.csproj.AssemblyReference.cache
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.AssemblyInfoInputs.cache
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.AssemblyInfo.cs
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.csproj.CoreCompileInputs.cache
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets\msbuild.AI Chatbot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets\msbuild.build.AI Chatbot.props
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AI Chatbot.props
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AI Chatbot.props
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\scopedcss\bundle\AI Chatbot.styles.css
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.csproj.CopyComplete
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\refint\AI Chatbot.dll
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.pdb
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\AI Chatbot.genruntimeconfig.cache
+D:\Projects\misreactdotnet\backend\AI Chatbot\AI Chatbot\obj\Debug\net6.0\ref\AI Chatbot.dll
